@@ -1,0 +1,16 @@
+export { default as LoginPage } from './LoginPage';
+export { default as PosPage } from './PosPage';
+export { default as DashboardPage } from './DashboardPage';
+export { default as ProductsPage } from './ProductsPage';
+export { default as CategoriesPage } from './CategoriesPage';
+export { default as InventoryPage } from './InventoryPage';
+export { default as SuppliersPage } from './SuppliersPage';
+export { default as PurchaseOrdersPage } from './PurchaseOrdersPage';
+export { default as GRNPage } from './GRNPage';
+export { default as BatchesPage } from './BatchesPage';
+export { default as CustomersPage } from './CustomersPage';
+export { default as LoyaltyPage } from './LoyaltyPage';
+export { default as ReturnsPage } from './ReturnsPage';
+export { default as ReportsPage } from './ReportsPage';
+export { default as SettingsPage } from './SettingsPage';
+export { default as UnitsPage } from './UnitsPage';

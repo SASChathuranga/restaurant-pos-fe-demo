@@ -1,0 +1,27 @@
+// Re-export all API modules
+export { default as api } from './axios';
+export { authApi } from './auth.api';
+export { createSale, salesApi } from './sales.api';
+export { productsApi } from './products.api';
+export { categoriesApi } from './categories.api';
+export { inventoryApi } from './inventory.api';
+export { suppliersApi } from './suppliers.api';
+export { purchaseOrdersApi } from './purchaseOrders.api';
+export { grnApi } from './grn.api';
+export { batchesApi } from './batches.api';
+export { customersApi } from './customers.api';
+export { loyaltyApi } from './loyalty.api';
+export { unitsApi } from './units.api';
+export { configApi } from './config.api';
+export { returnsApi } from './returns.api';
+export { orderReturnsApi } from './orderReturns.api';
+export { dashboardApi } from './dashboard.api';
+export { reportsApi } from './reports.api';
+export { tablesApi } from './tables.api';
+export { kitchenApi } from './kitchen.api';
+export { reservationsApi } from './reservations.api';
+export { shiftsApi } from './shifts.api';
+export { couponsApi } from './coupons.api';
+export { discountsApi } from './discounts.api';
+export { rolesApi } from './roles.api';
+export { usersApi } from './users.api';
